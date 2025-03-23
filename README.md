@@ -1,12 +1,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/angelantwi77/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo"  />
   </a>
-  <a href="https://www.youtube.com/your-youtube-channel">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube logo"  />
-  </a>
+
 </div>
 
 ###
