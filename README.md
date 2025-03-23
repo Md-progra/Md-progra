@@ -9,12 +9,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-github-username.your-github-username"  />
-</div>
-
-###
-
 <h1 align="center">Hey there 👋</h1>
 
 ###
@@ -28,7 +22,7 @@ I am Angel Antwi-Mensah, a Computer Science student at Grambling State Universit
 - 🔭 I’m currently working on an AI-powered task management web app.<br>
 - 📚 I'm currently learning full-stack development (MERN stack) and probabilistic models in Haskell.<br>
 - 💡 I'm interested in AI/ML, frontend development, and optimization algorithms.<br>
-- ⚡ In my free time, I enjoy listening to gospel music, planning fun activities with friends, and working on coding projects.<br>
+- ⚡ In my free time,Get me some Lego.<br>
 </p>
 
 ###
