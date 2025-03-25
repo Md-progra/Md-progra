@@ -22,7 +22,7 @@ I am Angel Antwi-Mensah, a Computer Science student at Grambling State Universit
 - 🔭 I’m currently working on an AI-powered task management web app.<br>
 - 📚 I'm currently learning full-stack development (MERN stack) and probabilistic models in Haskell.<br>
 - 💡 I'm interested in AI/ML, frontend development, and optimization algorithms.<br>
-- ⚡ In my free time,Get me some Lego.<br>
+- ⚡ In my free time,Get me some Lego and some clothes! Love me some good ol' fashion.<br>
 </p>
 
 ###
